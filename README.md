@@ -1,25 +1,24 @@
 # 🇮🇩 Analisis Sentimen Publik Terhadap PSSI dan Timnas Indonesia
 
 **Nama:** Dzaky Abdur Razaq  
-**NIM:** 5220411094
+**NIM:** 5220411083
 
 ---
 
 ## 📘 Deskripsi Proyek
 
 Proyek ini merupakan studi kasus **Analisis Sentimen Publik** terhadap **Persatuan Sepak Bola Seluruh Indonesia (PSSI)** dan **Tim Nasional (Timnas) Indonesia**, dengan memanfaatkan data dari media sosial **Twitter (sekarang X)**.  
-Data diperoleh melalui proses _web scraping_ dan diproses menggunakan teknik **Natural Language Processing (NLP)** untuk mendapatkan representasi teks yang siap dianalisis.
+Data diperoleh melalui proses _web scraping_ dan diproses untuk dilakukan **Case Folding**.
 
 ---
 
 ## 🎯 Tujuan dan Ruang Lingkup
 
 - **Fokus Analisis:** Mengamati persepsi publik terhadap kata kunci **"PSSI"** dan **"Timnas"**.
-- **Target Data:** Minimal **2000 tweet** dalam Bahasa Indonesia.
+- **Target Data:** Minimal **1000 tweet**.
 - **Tugas Utama:**
-  1. Pengambilan data menggunakan _scraper_ berbasis Node.js.
+  1. Scraping data yang ada di internet (kasus saat ini menggunakan media social X)
   2. Implementasi **Case Folding** dalam tahap _text preprocessing_.
-  3. Persiapan untuk analisis sentimen menggunakan pustaka NLP.
 
 ---
 
