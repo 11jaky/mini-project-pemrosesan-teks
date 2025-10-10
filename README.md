@@ -1,4 +1,4 @@
-# 🇮🇩 Analisis Sentimen Publik Terhadap PSSI dan Timnas Indonesia
+# 🇮🇩⚽️ Analisis Sentimen Publik Terhadap PSSI dan Timnas Indonesia
 
 **Nama:** Dzaky Abdur Razaq  
 **NIM:** 5220411083
